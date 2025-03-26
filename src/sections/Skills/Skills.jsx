@@ -23,15 +23,15 @@ function Skills() {
         <SkillList src={checkMarkIcon} skill="React" />
         <SkillList src={checkMarkIcon} skill="Angular" />
         <SkillList src={checkMarkIcon} skill="Vue" />
-        <SkillList src={checkMarkIcon} skill="Tailwind CSS" />
+        <SkillList src={checkMarkIcon} skill="NEXT JS" />
       </div>
       <hr />
       <div className={styles.skillList}>
-        <SkillList src={checkMarkIcon} skill="Redux" />
-        <SkillList src={checkMarkIcon} skill="Webpack" />
-        <SkillList src={checkMarkIcon} skill="Git" />
-        <SkillList src={checkMarkIcon} skill="Jest" />
-        <SkillList src={checkMarkIcon} skill="Bootstrap" />
+        <SkillList src={checkMarkIcon} skill="C#" />
+        <SkillList src={checkMarkIcon} skill="Nuget Package" />
+        <SkillList src={checkMarkIcon} skill="ASP.NET CORE v. 5-9" />
+        <SkillList src={checkMarkIcon} skill="RESTFUL API" />
+        <SkillList src={checkMarkIcon} skill="SQL" />
       </div>
     </section>
   );

@@ -40,9 +40,9 @@ function Hero() {
           <br />
           Cassell
         </h1>
-        <h2>Frontend Developer</h2>
+        <h2>Software Developer</h2>
         <span>
-          <a href="https://twitter.com/" target="_blank">
+          <a href="https://x.com/josh_cassell3" target="_blank">
             <img src={twitterIcon} alt="Twitter icon" />
           </a>
           <a href="https://github.com/jcssll" target="_blank">
@@ -53,8 +53,7 @@ function Hero() {
           </a>
         </span>
         <p className={styles.description}>
-          With a passion for developing modern React web apps for commercial
-          businesses.
+          With a deep passion for crafting web applications, whether on the frontend or backend, I build with intention—designing modern, meaningful solutions that help businesses thrive. 
         </p>
         <a href={CV} download>
           <button className="hover">Resume</button>
