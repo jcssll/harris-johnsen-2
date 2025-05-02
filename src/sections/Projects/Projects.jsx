@@ -14,7 +14,7 @@ function Projects() {
           src={viberr}
           link="https://talkeez.org/"
           h3="TalkEEZ"
-          p="Autism/Communication - E-Commerce App"
+          p="Autism/Communication - E-Commerce App MySQL|Shopify API"
         />
         <ProjectCard
           src={freshBurger}
@@ -30,9 +30,9 @@ function Projects() {
         />
         <ProjectCard
           src={fitLift}
-          link="https://github.com/jcssll/S-W-Portifolio"
+          link="https://stellular-begonia-d9d505.netlify.app/"
           h3="Sites & Wonders"
-          p="Web Agency"
+          p="Web Agency executed with React "
         />
       </div>
     </section>
