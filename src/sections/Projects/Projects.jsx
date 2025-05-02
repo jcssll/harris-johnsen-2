@@ -24,9 +24,9 @@ function Projects() {
         />
         <ProjectCard
           src={hipsster}
-          link="hackernews-hfavfhdqd8f9byge.canadacentral-01.azurewebsites.net"
+          link="https://hackernews-hfavfhdqd8f9byge.canadacentral-01.azurewebsites.net/"
           h3="HackerNews"
-          p="Hacker News API Angular 17 & .NetCore"
+          p="Hacker News API Angular 17 & .Net Core"
         />
         <ProjectCard
           src={fitLift}
