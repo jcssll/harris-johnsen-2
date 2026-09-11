@@ -1,0 +1,6 @@
+Portrait edit used the built-in image generation tool.
+Final prompt: Edit this exact portrait photograph. Professionally blur ONLY the background (car interior, ceiling, headrest, window and outdoor scenery) with strong natural optical portrait-mode bokeh. Preserve the person exactly: identity, face, expression, skin texture, glasses, hair, outfit, pose, sharpness and original lighting including green reflections. Careful natural subject edges without halos. Keep original framing and portrait aspect ratio. Do not beautify or alter the person. No added text or logos.
+Output: public/joshua-cassell-professional.png. Orientation normalized after generation.
+Logo: public/enetworker-logo.svg. Vector typography with a signature-style name; not a reproduction of a supplied handwritten signature.
+Browser icon: public/enetworker-favicon.svg.
+Brand correction: ENetworker is the function; J.F.Cassell III is its signature-style argument. Essential Networker is spelled out below. Browser icon uses EN in parentheses. Removed Emergent from the visible portfolio. Original DailyActivity and Talkeez logos copied from the Daily Activity project; Sites & Wonders logo supplied by the owner.
